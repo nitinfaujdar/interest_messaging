@@ -1,0 +1,4 @@
+/api/migrations/*
+/api/migrations/__pycache__/*
+/api/__pycache__/*
+zentra/__pycache__/*
